@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     "rest_framework.authtoken",
     "rest_authtoken",
     "api",
+    "reviewerList",
     "rest_auth",
 ]
 
